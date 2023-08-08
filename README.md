@@ -1,4 +1,4 @@
-# Shopify Template Readme
+# Shopify Template with SASS
 
 [![NodeJS](https://img.shields.io/badge/NodeJS-16%2B-brightgreen)](https://nodejs.org/)
 [![Ruby+Devkit](https://img.shields.io/badge/Ruby%2BDevkit-3.0-blue)](https://rubyinstaller.org/)
